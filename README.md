@@ -1,12 +1,13 @@
-# 🚀 Marketing Agency AI Skills
+# 🚀 Marketing Agency AI Skills + Presentation Builder
 
-> **Transform any AI IDE into a complete marketing agency powerhouse**
+> **Transform any AI IDE into a complete marketing agency powerhouse with professional presentation creation**
 
-A professional collection of 23+ AI skills covering copywriting, design, SEO, strategy, conversion optimization, and media production. Compatible with Claude, Antigravity, Cursor, Windsurf, Copilot, and any AI agent that supports markdown-based skills.
+A professional collection of 28+ AI skills covering copywriting, design, SEO, strategy, conversion optimization, media production, and complete presentation building. Compatible with Claude, Antigravity, Cursor, Windsurf, Copilot, and any AI agent that supports markdown-based skills.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills: 23+](https://img.shields.io/badge/Skills-23+-blue.svg)]()
-[![Categories: 6](https://img.shields.io/badge/Categories-6-green.svg)]()
+[![Skills: 28+](https://img.shields.io/badge/Skills-28+-blue.svg)]()
+[![Categories: 7](https://img.shields.io/badge/Categories-7-green.svg)]()
+[![Workflow: 1](https://img.shields.io/badge/Workflow-Presentation_Builder-purple.svg)]()
 
 ---
 
@@ -25,18 +26,36 @@ A professional collection of 23+ AI skills covering copywriting, design, SEO, st
 
 ## 🎯 What's Included
 
-### 23 Professional Skills Across 6 Categories:
+### 28 Professional Skills Across 7 Categories + 1 Complete Workflow:
 
 | Category | Skills | Use Cases |
 |----------|--------|-----------|
 | **📝 Copywriting & Content** | 5 skills | Social media, landing pages, emails, ads, content strategy |
 | **🎨 Design & Visual** | 5 skills | UI/UX, branding, prototypes, graphics, visual identity |
+| **🎁 Presentation Building** | 5 skills | Complete presentation creation with code-first approach |
 | **🔍 SEO & Optimization** | 4 skills | Technical SEO, audits, schema markup, programmatic SEO |
 | **📈 Marketing Strategy** | 4 skills | 139 marketing ideas, psychology, paid ads, competitor analysis |
 | **🎯 Conversion & Analytics** | 4 skills | A/B testing, analytics tracking, CRO, form optimization |
 | **🎬 Media Production** | 2 skills | Video downloads, image enhancement |
 
-**Total:** 23+ skills covering 100% of marketing agency needs
+**Total:** 28+ skills + 1 orchestrated workflow covering 100% of marketing agency needs
+
+### 🎭 Presentation Builder Workflow
+
+The **Presentation Builder** is a complete orchestrated workflow that uses 5 specialized skills to create professional presentations from scratch:
+
+1. **Information Gathering** - Collects requirements, assets, colors, and typography
+2. **Copy & Humanization** - Creates humanized content without AI jargon
+3. **Design & Code** - Implements visual design with premium standards
+4. **Quality Audit** - Double-checks everything before delivery
+5. **High-Quality Export** - Generates versioned outputs (PDF, PNG, HTML)
+
+**Output Structure:**
+```
+docs/Apresentacoes/[Project-Name]/
+├── src/          # Source code and assets
+└── build/        # Final versioned outputs (v1, v2, etc)
+```
 
 ---
 
@@ -260,6 +279,18 @@ For any AI that supports RAG or document context:
 | **canvas-design** | Visual art creation | Posters, graphics, PNG/PDF designs |
 | **brand-guidelines** | Brand identity application | Official colors, typography, visual standards |
 
+### 🎁 Presentation Building
+
+| Skill | Description | Key Features |
+|-------|-------------|--------------|
+| **copywriting** | Humanized presentation copy | No AI jargon, emoji-free, professional narratives |
+| **frontend-design** | Premium visual design | Modern layouts, color systems, typography |
+| **seo-fundamentals** | SEO for web presentations | Meta tags, semantic HTML, accessibility |
+| **ui-ux-pro-max** | Design intelligence | Style selection, palettes, font pairings |
+| **web-artifacts-builder** | Interactive presentations | React-based, exportable to multiple formats |
+
+**Orchestrated by:** `presentation-builder.md` workflow (5-step process)
+
 ### 🔍 SEO & Optimization
 
 | Skill | Description | Key Features |
@@ -343,6 +374,22 @@ For any AI that supports RAG or document context:
 6. seo-fundamentals → Technical optimization
 ```
 
+### Workflow 5: Professional Presentation (Presentation Builder)
+
+```
+1. presentation-builder → Activate orchestrated workflow
+   ├── Step 1: Information Gathering
+   │   └── Collect purpose, format, assets, colors, typography
+   ├── Step 2: Copy & Humanization
+   │   └── Create humanized content (no AI jargon, no emojis)
+   ├── Step 3: Design & Code
+   │   └── Implement premium visual design
+   ├── Step 4: Quality Audit
+   │   └── Double-check all requirements
+   └── Step 5: High-Quality Export
+       └── Generate versioned outputs in docs/Apresentacoes/
+```
+
 ---
 
 ## 💡 Usage Examples
@@ -381,6 +428,20 @@ AI will activate:
 - schema-markup → Structured data suggestions
 ```
 
+### Example 4: Professional Presentation
+
+```
+"Create a professional presentation for a beauty clinic"
+
+AI will activate:
+- presentation-builder workflow → Orchestrates entire process
+  - Gathers requirements and assets
+  - Creates humanized copy
+  - Designs premium visuals
+  - Audits quality
+  - Exports versioned files to docs/Apresentacoes/
+```
+
 ---
 
 ## 📊 Project Structure
@@ -393,6 +454,7 @@ Marketing-Agency-AI-Skills/
 ├── INSTALLATION_GUIDE.md              # Detailed installation guide
 ├── WORKFLOWS.md                       # Complete workflow examples
 ├── CHANGELOG.md                       # Version history
+├── presentation-builder.md            # Presentation Builder Workflow
 │
 ├── copywriting/
 │   ├── SKILL.md                       # Main skill file
@@ -609,12 +671,15 @@ Special thanks to:
 - [ ] PR & media relations
 - [ ] Event marketing
 - [ ] Affiliate marketing
+- [ ] Advanced presentation templates
+- [ ] Presentation animation library
 
 ### Upcoming Features:
 - [ ] Skill templates generator
 - [ ] Custom workflow builder
 - [ ] Performance analytics
 - [ ] Multi-language support
+- [ ] Presentation theme marketplace
 
 ---
 
@@ -637,4 +702,4 @@ If you find this useful, please star the repository!
 
 **Made with ❤️ for the marketing community**
 
-Transform your AI into a complete marketing agency. Start creating amazing content today! 🚀
+Transform your AI into a complete marketing agency with professional presentation building. Start creating amazing content today! 🚀
